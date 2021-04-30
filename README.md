@@ -5,8 +5,7 @@
 ![alt](https://p1.img.cctvpic.com/photoworkspace/2021/04/26/2021042615342811951.jpg)
 
 
-![alt](123.png)
-![alt](image.png)
+![alt](wallpaper.png)
 
 <br>
 这是一个菜鸟教程链接 [菜鸟教程](https://www.runoob.com)
