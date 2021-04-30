@@ -1,12 +1,12 @@
 # L-ck
 ## 这是二级标题
 #### 这是四级标题
-![alt  图标](https://img2.baidu.com/it/u=360400461,2955275651&fm=26&fmt=auto&gp=0.jpg)
-![alt  中国军人](https://p1.img.cctvpic.com/photoworkspace/2021/04/26/2021042615342811951.jpg)
+![alt](https://img2.baidu.com/it/u=360400461,2955275651&fm=26&fmt=auto&gp=0.jpg)
+![alt](https://p1.img.cctvpic.com/photoworkspace/2021/04/26/2021042615342811951.jpg)
 
 
-![alt 中图片](123.png)
-![alt IBM](image.png)
+![alt](123.png)
+![alt](image.png)
 
 <br>
 这是一个菜鸟教程链接 [菜鸟教程](https://www.runoob.com)
